@@ -436,8 +436,8 @@ githubLabel.style.color = 'white';
 githubContainer.appendChild(githubLabel);
 
 const githubUrl = document.createElement('a');
-githubUrl.textContent = 'jokeri2222';
-githubUrl.href = 'https://github.com/jokeri2222';
+githubUrl.textContent = 'Markitogamer213';
+githubUrl.href = 'https://github.com/Markitogamer213';
 githubUrl.target = '_blank';
 githubUrl.style.fontFamily = '"Montserrat", "Noto Sans Arabic", "Helvetica Neue", Helvetica, Arial, sans-serif;';
 githubUrl.style.fontSize = '1.5vw';
